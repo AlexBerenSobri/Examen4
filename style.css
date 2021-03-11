@@ -1,0 +1,18 @@
+
+html {
+
+  font-family: sans-serif;
+
+}
+p{
+  background-color: red;
+  color: rgb(124, 3, 3);
+  width: 140px;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 10px 5px 1px rgb(0, 0, 0);
+}
+
+
+
+/* Your CSS below here */
